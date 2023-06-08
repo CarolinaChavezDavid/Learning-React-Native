@@ -45,6 +45,11 @@ Redux is a predictable state container for JavaScript apps. It helps write appli
   * **Reducers**: “Actions describe the fact that something happened, but don’t specify how the application’s state changes in response. This is the job of reducers.” when an action is dispatched for state change its the reducers duty to make the necessary changes to the state and return the new state of the application.
   * **Store**: a store can be created with help of reducers which holds the entire state of the application. The recommended way is to use a single store for the entire application rather than having multiple stores which will violate the use of redux which only has a single store.
   * **Components**: this is where the UI of the application is kept
+  <p align="center">
+  <img width="500" alt="image" src="https://github.com/CarolinaChavezDavid/Learning-React-Native/assets/77591347/0ca2b5c0-7a53-45f5-883d-bf66b5f898ef">
+  </p>
+  
+
 
 ## Navigation
 
@@ -54,7 +59,11 @@ Redux is a predictable state container for JavaScript apps. It helps write appli
 * BottomTab Navigation
 * MaterialTop Navigation
 
-## Context and global state
+## Sources of information
+* 🖋️ [InterviewBit](https://www.interviewbit.com/react-native-interview-questions/)
+
+
+
 
 
 
